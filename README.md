@@ -13,4 +13,17 @@
 - The system differentiates between people moving toward and moving away from the camera, categorizing movement as "In" or "Out." The detected people are then captured with SIFT (Scale- 
   Invariant Feature Transform) for further analysis and visualization.
 
+![2022-02-26 (1)](https://user-images.githubusercontent.com/71517596/155844232-ce2cd278-04b0-4ee8-abbe-104aafc7cc3a.png)
+![2022-02-26 (2)](https://user-images.githubusercontent.com/71517596/155844233-596c932d-0c32-45be-b50c-a684e9e106e1.png)
+
+
+ADVANTAGES :
+- Contactless & Queueless
+- Safer way to buy products
+- Avoiding crowded places
+- Time Saver for both customers and retailers 
+- Provides efficient management to retailers
+![2022-02-26 (3)](https://user-images.githubusercontent.com/71517596/155844249-b71fa871-dd2f-452b-8827-ac0977b4bc38.png)
+![2022-02-26 (4)](https://user-images.githubusercontent.com/71517596/155844251-0abb9de4-8127-4e96-b634-c378146c0179.png)
+![2022-02-26 (5)](https://user-images.githubusercontent.com/71517596/155844252-31994be4-4a31-42df-867b-87861a3a2180.png)
 
